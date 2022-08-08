@@ -1,7 +1,7 @@
 name: azt
 description: A new Flutter package based on GetX to make it easier to build better Apps more quickly and with less code.
 version: 0.0.1
-homepage:
+homepage: https://github.com/AzatAI/flutter_azt
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
